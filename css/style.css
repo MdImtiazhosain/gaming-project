@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:ghostwhite;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    background-color: lime;
+    font-size: 50px;
+    font-weight: 600;
+    color: brown;
+
+}
+.wrapper{
+    display: flex;
+    gap: 400px;
+    margin: 100px 40%;
+    
+}
+.First_Team{
+    margin-left: -120px;
+    
+}
+.First_Team h2{
+    width: 300px;
+    padding: 20px;
+    background-color: red;
+    font-size: 30px;
+    font-weight: 400;
+    color:white;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: -200px;
+}
+.First_Team h3{
+    width: 150px;
+    height: 60px;
+    margin-top: 80px;
+    background: yellow;
+    border-radius: 20px ;
+    color:red;
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    border: 4px solid black;
+    margin-left: -115px;
+
+}
+
+
+.First_Team .first_input{
+    width: 300px;
+    height: 60px;
+    margin-top: 60px;
+    background:lime;
+    border-radius: 15px ;
+    color:red;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    border: 4px solid black;
+    margin-left: -190px;
+
+}
+.First_Team .btn_1{
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    background:purple;
+    color:red;
+    font-weight: 600;
+    font-size: 20px;
+    display: block;
+    border-radius:10px;
+    border: 4px solid blueviolet;
+    margin-left: -90px;
+}
+
+.Second_Team h2{
+    width: 300px;
+    padding: 20px;
+    background-color: blue;
+    font-size: 30px;
+    font-weight: 400;
+    color:white;
+    text-align: center;
+    background-color: red;
+    border-radius: 10px;
+
+}
+.Second_Team h3{
+    width: 150px;
+    height: 60px;
+    margin-top: 80px;
+    background: yellow;
+    border-radius: 20px ;
+    color:red;
+    font-weight: 600;
+    font-size: 25px;
+    border: 4px solid black;
+    margin-left: 100px;
+    text-align: center;
+    
+    
+    
+
+}
+.Second_Team .Second_input{
+    width: 300px;
+    height: 60px;
+    margin-top: 80px;
+    background: lime;
+    border-radius: 15px ;
+    color:red;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    border: 4px solid black;
+    margin-left: 20px;
+}
+.Second_Team .btn_2{
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    background:purple;
+    color:red;
+    font-weight: 600;
+    font-size: 20px;
+    display: block;
+    border-radius:10px;
+    border: 4px solid blueviolet;
+    margin-left: 120px;
+}
+.Second_Team h4{
+    display: block;
+    color:white;
+    width: 300px;
+    height: 80px;
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 35px;
+    background: red;
+    margin-left: -450px;
+    margin-top: -150px;
+    display: none;
+}
+.Second_Team h5{
+    display: block;
+    color:white;
+    width: 300px;
+    height: 80px;
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 35px;
+    background: red;
+    margin-left:-450px;
+    margin-top: -200px;
+    display: none;
+}
